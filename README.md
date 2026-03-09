@@ -12,12 +12,12 @@ My love of numbers has led me to develop a passion for data analytics, and I am 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|  | |
+|  | |
+|  | |
+|  | |
+|  | |
+|  | |
 
 ## Certifications
 
@@ -33,7 +33,7 @@ My love of numbers has led me to develop a passion for data analytics, and I am 
 ## Projects
 - [Shark Tank: What Makes A Deal?](https://github.com/scknapp22/Shark-Tank-What-Makes-A-Deal-An-Analysis-of-Television-s-Most-Influential-Business-Reality-Show)
 - [Statistical Modeling of NBA Game Outcomes: Predicting Spread, Total Points, and Offensive Rebounds](https://github.com/scknapp22/NBA-Predictions)
-- [Do experiential, positional, and situational factors impact playing styles and performance on Amen’s Corner, and does this in turn have a disproportionate impact on the Masters outcome?]
+- [Do experiential, positional, and situational factors impact playing styles and performance on Amen’s Corner, and does this in turn have a disproportionate impact on the Masters outcome?](https://github.com/scknapp22/Intensification-of-Relative-Humidity-and-Its-Impacts-on-Plant-Respiration/blob/main/README.md)
 - [Intensification of Relative Humidity and Its Impacts on Plant Respiration] 
 
 
