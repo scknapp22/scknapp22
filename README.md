@@ -31,7 +31,7 @@ My love of numbers has led me to develop a passion for data analytics, and I am 
 </div>
 
 ## Projects
-- [Tommy Boye Autocare Health Plan Strategy]
+- [Tommy Boye Autocare Health Plan Strategy](https://github.com/scknapp22/Tommy-Boye-Autocare-Health-Plan-Strategy/blob/main/README.md)
 - [Statistical Modeling of NBA Game Outcomes: Predicting Spread, Total Points, and Offensive Rebounds](https://github.com/scknapp22/NBA-Predictions)
 - [Do experiential, positional, and situational factors impact playing styles and performance on Amen’s Corner, and does this in turn have a disproportionate impact on the Masters outcome?]
 - [Intensification of Relative Humidity and Its Impacts on Plant Respiration](https://github.com/scknapp22/Intensification-of-Relative-Humidity-and-Its-Impacts-on-Plant-Respiration/blob/main/README.md)
