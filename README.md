@@ -8,17 +8,6 @@ As a Senior at the University of North Carolina at Chapel Hill, majoring in Stat
 
 My love of numbers has led me to develop a passion for data analytics, and I am now eager to transition into this field, specifically aiming to use data-driven insights to answer complex questions. 
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-
 ## Certifications
 
 <div>
@@ -33,7 +22,7 @@ My love of numbers has led me to develop a passion for data analytics, and I am 
 ## Projects
 - [Tommy Boye Autocare Health Plan Strategy](https://github.com/scknapp22/Tommy-Boye-Autocare-Health-Plan-Strategy/blob/main/README.md)
 - [Statistical Modeling of NBA Game Outcomes: Predicting Spread, Total Points, and Offensive Rebounds](https://github.com/scknapp22/NBA-Predictions)
-- [Do experiential, positional, and situational factors impact playing styles and performance on Amen’s Corner, and does this in turn have a disproportionate impact on the Masters outcome?]
+- [Do experiential, positional, and situational factors impact playing styles and performance on Amen’s Corner, and does this in turn have a disproportionate impact on the Masters outcome?](https://github.com/scknapp22/Amen-Corner)
 - [Intensification of Relative Humidity and Its Impacts on Plant Respiration](https://github.com/scknapp22/Intensification-of-Relative-Humidity-and-Its-Impacts-on-Plant-Respiration/blob/main/README.md)
 - [Shark Tank: What Makes A Deal?](https://github.com/scknapp22/Shark-Tank-What-Makes-A-Deal-An-Analysis-of-Television-s-Most-Influential-Business-Reality-Show)
 
